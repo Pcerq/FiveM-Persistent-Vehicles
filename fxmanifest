@@ -1,7 +1,0 @@
-fx_version 'adamant'
-
-game 'gta5'
-
-description 'Persistent Vehicle scripts'
-
-version '1.0.0'
