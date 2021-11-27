@@ -1,2 +1,6 @@
 # FiveM-Persistent-Vehicles
-Prevents vehicles from disappearing in FiveM servers
+
+Features:
+
+- Prevents vehicles from disappearing in FiveM Servers
+- Respawn them on server restart
